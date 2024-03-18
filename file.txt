@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Created on laptop
+=======
+This is first commit made on ticket branch
+>>>>>>> 43226641927e15483ccd7a33b920c8b36e38ce26
